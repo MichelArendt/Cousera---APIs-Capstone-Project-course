@@ -1,7 +1,7 @@
-Simple API project for Meta's APIs module from course Meta Back-End Developer Professional Certificate.
+This project is the capstone for the Coursera course on APIs from Meta Back-End Developer. It demonstrates the implementation of a RESTful API that includes user authentication, data retrieval, and secure API interactions. The project uses Python, Django, and Djoser for managing user registration and authentication, along with signed API calls to ensure data security and integrity. The goal is to build a functional API that can be integrated into larger applications.
 
 # API endpoints
-You can view the available API endpoints on the following address (either browser or GET request at endpoint): http://localhost:8000/api/
+You can view the available API endpoints on the following address (GET request at endpoint): http://localhost:8000/api/
 
 Also we have Djoser's endpoints:
 
